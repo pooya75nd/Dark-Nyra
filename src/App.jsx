@@ -4,7 +4,7 @@ import PerpBoard from './components/PerpBoard.jsx'
 import Logo from '/dark-nyra-logo.svg'
 
 // Replace with your real Pump.fun mint
-const DEFAULT_MINT = 'GBRLx3jWfhUJM26tVt5kLAAkqjU9pfyZNVfP11mR85N5'
+const DEFAULT_MINT = '3w8qd4jrStowiK8LUzAsHhu9L5JbpiyVcMtjSgs1kJg4'
 
 export default function App(){
   return (
