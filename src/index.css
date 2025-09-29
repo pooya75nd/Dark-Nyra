@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nyra-btn { @apply px-3 py-2 rounded-nyra text-white font-medium; background: linear-gradient(135deg, #8a5cff, #39d0ff); }
+.nyra-btn-ghost { @apply px-3 py-2 rounded-nyra text-nyra-text border border-white/10; background: rgba(255,255,255,0.02); }
+.nyra-card { @apply rounded-nyra bg-nyra-card/70 backdrop-blur border border-white/5 shadow-nyra-inner; }
